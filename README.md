@@ -13,3 +13,5 @@ Existe un comando que hace la función de agregar los archivos al Staggin y al m
 Este es: `git commit -am "my message"`
 
 Este **solamente funciona** para los archivos que previamente han pasado por el staggin.
+
+Estos con cambios desde una nueva rama, es probable que no se vean at least :D
