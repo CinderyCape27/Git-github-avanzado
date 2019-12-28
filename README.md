@@ -8,3 +8,8 @@ Qué pasa crack!
 Primero `git fetch` y luego `git merge`...
 
 Pero `git pull` hace ambos :v
+
+Existe un comando que hace la función de agregar los archivos al Staggin y al mismo timepo al repositorio local!!
+Este es: `git commit -am "my message"`
+
+Este **solamente funciona** para los archivos que previamente han pasado por el staggin.
