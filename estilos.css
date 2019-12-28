@@ -1,11 +1,17 @@
 *{
+<<<<<<< HEAD
     font-family: 'Courier New', Courier, monospace;
     color: black;
     margin: 0px;
 
+=======
+    font-family: Arial;
+    margin: 0;
+>>>>>>> cabecera
     padding: 0px;
     /* font-size: 30px; */
     box-sizing: border-box;
+
 }
 
 .cabecera {
