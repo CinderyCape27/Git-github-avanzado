@@ -17,3 +17,5 @@ Este **solamente funciona** para los archivos que previamente han pasado por el 
 Estos con cambios desde una nueva rama, es probable que no se vean at least :D
 
 CAMBIOS EN RAMA CABECERA
+
+CAMBIOS DESDE MASTER :)
